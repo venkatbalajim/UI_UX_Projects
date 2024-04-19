@@ -1,12 +1,12 @@
 # UI/UX Projects Repository
 
-Welcome to the UI/UX Projects Repository! Here you'll find various design projects focusing mainly on mobile apps.
+Welcome to the UI/UX Projects Repository! Here you'll find various UI/UX design projects.
 
 ## Projects
 
 ### 1. Learn Studio Signup Flow
 
-This project folder contains the design files and documentation for the signup flow of Learn Studio. Learn Studio is a platform aimed at providing educational resources for creative professionals. In this project, we focused on creating a smooth and intuitive signup experience for users.
+This project folder contains the design files and documentation for the signup flow of Learn Studio. Learn Studio is a platform aimed at providing educational resources for creative professionals. In this project, we focused on creating a smooth and intuitive user signup experience.
 
 ![Learn Studio](./Learn%20Studio%20Signup%20Flow/Thumbnail%20Image.png)
 
@@ -18,6 +18,6 @@ In this project folder, you'll find the design assets and details for the order 
 
 ## Note
 
-- Feel free to explore the project folders for more details on each design project.
+- You can explore the project folders for more details on each design project.
 - If you have any questions or feedback, don't hesitate to reach out!
 - Email: venkatbalajim123@gmail.com | LinkedIn: [venkatbalajim](https://www.linkedin.com/in/venkatbalajim)
